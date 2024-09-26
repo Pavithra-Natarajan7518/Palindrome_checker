@@ -1,0 +1,40 @@
+
+
+.container{
+    background-color: black;
+    padding: 50px;
+    margin: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+
+}
+.inside-container{
+    color: rgb(225, 222, 187);
+    display: flex;
+    flex-direction: column;
+    margin: 10PX;
+    align-items: center;
+    justify-content: center;
+}
+.inside-container h1{
+    text-align: center;
+}
+.inside-container input{
+    margin-bottom: 10px;
+    height: 40px;
+    width: 70%;
+    background-color: bisque;
+}
+.inside-container button{
+   width: 150px;
+   height: 30px;
+   border: none;
+   border-radius: 10px;
+   background-color: bisque;
+    
+    
+}
+.result{
+    color: bisque;
+}
